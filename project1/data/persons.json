@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Лунтик",
+    "age": 10,
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/28dc0612-8f5c-4001-b902-b8f48d60d53d/dg35pd5-e9c90039-5944-4ee8-93bb-e4121761c291.jpg/v1/fill/w_894,h_894,q_70,strp/i_m_decided_to_drawing_luntik_by_sayat_bekturganovich_dg35pd5-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcLzI4ZGMwNjEyLThmNWMtNDAwMS1iOTAyLWI4ZjQ4ZDYwZDUzZFwvZGczNXBkNS1lOWM5MDAzOS01OTQ0LTRlZTgtOTNiYi1lNDEyMTc2MWMyOTEuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Ay2qej32_RHA9zJ-QZYapKbaJKOo2oSNXpUXrExYZTY"
+  },
+  {
+    "name": "Ханде Эрчел",
+    "age": 30,
+    "image": "https://uznayvse.ru/images/catalog/2022/6/hande-erchel_50.jpg"
+  },
+  {
+    "name": "Чен Сяо",
+    "age":25,
+    "image": "https://avatars.dzeninfra.ru/get-zen_doc/8118234/pub_64102f08a48a1c67ba8bd778_641039ca02954d3083ce25b9/scale_1200"
+  }
+]
